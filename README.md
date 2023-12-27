@@ -1,14 +1,14 @@
 2023-12 STEAM
 <br/>
-Včetně 16:9 HOR+ upraveného EXE souboru
+Včetně 16:9 a 21:9 HOR+ upraveného EXE souboru
 <br/>
-https://drive.google.com/drive/folders/1-UAULs_3Z0yRHfWxrMRglXHpiwflsSyC
+https://github.com/hornster02/Cold_War-2005-CZ/raw/main/_cz.rar
 
 Postup
 <br/>
--nastavit a poté spustit samotnou hru v EN (je potřeba nahrát výchozí data do registru a bez nich by pokus o spuštění hry skončil hláškou že není správně nainstalovaná)
+-nastavit a poté spustit samotnou hru v EN (je potřeba nahrát výchozí data do registru a bez nich by pokus o spuštění hry skončil hláškou že není správně nainstalovaná) a poté ideálně donastavit v menu hry*
 
--ručně smazat všechny soubory bez přípony ve složce hry (pokud nedojde k jejich smazání, tak po aplikování CZ patche hra může i nemusí jít spustit)
+-přejmenovat soubory (celkem by jich mělo být 25) EN hry z "_en_" na "_cs_" (hromadné přejmenování se snadno během 5 vteřin provede třeba v programu Total Commander - CTRL+M)
 
 -aplikovat CZ patch
 
@@ -18,4 +18,4 @@ window_width = 1920 ;
 <br/>
 window_height = 1080 ;
 
--hra se spouští přes "_spustit.exe" - Steam klient je zbytečný. Drobný problém je v tom, že pokud se hra nebude spouštět přes konfigurační okno ("coldwar.exe" nebo "_nastaveni.exe"), tak případné změny nastavení v menu hry budou pouze dočasné. Pokud se přes ně bude spouštět, tak není možné mít 16:9 HOR+ rozlišení. Řešení je jednoduché - nastavení hry provést přes "coldwar.exe" nebo "_nastaveni.exe" a hrát přes "_spustit.exe"
+-hra se spouští přes "_spustit.exe" - Steam klient je zbytečný. Drobný problém* je v tom, že pokud se hra nebude spouštět přes konfigurační okno ("coldwar.exe" nebo "_nastaveni.exe"), tak případné změny nastavení v menu hry budou pouze dočasné. Pokud se přes ně bude spouštět, tak není možné mít 16:9 HOR+ rozlišení. Řešení je jednoduché - nastavení hry provést přes "coldwar.exe" nebo "_nastaveni.exe" a hrát přes "_spustit.exe"
