@@ -1,12 +1,10 @@
-2023-12 STEAM
-<br/>
-Včetně 16:9 a 21:9 HOR+ upraveného EXE souboru
+STEAM (2023-12)
 <br/>
 https://github.com/hornster02/Cold_War-2005-CZ/raw/main/_cz.rar
 
 Postup
 <br/>
--nastavit a poté spustit původní hru (je potřeba nahrát výchozí data do registru a bez nich by pokus o spuštění hry skončil hláškou že není správně nainstalovaná) a poté ideálně donastavit v menu hry*
+-spustit původní hru bez češtiny (je potřeba nahrát výchozí data do registru a bez nich by pokus o spuštění hry skončil hláškou že není správně nainstalovaná) a poté ideálně donastavit v menu hry*
 
 -přejmenovat původní herní soubory (celkem by jich mělo být 25) z ```_en_``` na ```_cs_``` - ideálně metodou najít/nahradit (hromadné přejmenování se snadno během 5 vteřin provede třeba v programu Total Commander - CTRL+M)
 
